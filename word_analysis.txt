@@ -1,8 +1,0 @@
-Sentence: This is my Book. It's name is White Nights.
-Total words: 9
-Total characters: 43
-Longest word: Nights.
-Shortest word: is
-Vowels: 11
-Unique words: {'name', 'my', 'Nights.', "It's", 'White', 'This', 'is', 'Book.'}
-Alphabetical order: Book., It's, Nights., This, White, is, my, name
