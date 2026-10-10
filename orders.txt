@@ -1,0 +1,5 @@
+Burger x 2 = Rs. 1000
+Drink x 2 = Rs. 300
+Fries x 1 = Rs. 250
+Total: Rs. 1550
+--------------------
