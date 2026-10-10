@@ -1,9 +1,0 @@
-lays x 2 = Rs. 200.0
-Cookies x 1 = Rs. 500.0
-Eggs x 12 = Rs. 300.0
-Bread x 2 = Rs. 240.0
-Jam x 1 = Rs. 550.0
-Total: Rs. 1790.0
-Discount: Rs. 0
-Final Bill: Rs. 1790.0
-Most expensive: Jam
