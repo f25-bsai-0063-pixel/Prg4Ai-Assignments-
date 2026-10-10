@@ -6,7 +6,7 @@ Welcome to my central hub for the **Programming for AI** course! This repository
 
 ## ⚡ Quick Navigation
 
-* 📂 **[Assignment 01](./Assignment 01)** — Core Logic & Data Handling Pipelines
+* 📂 **[Assignment 01](./Assignment-01)** — Core Logic & Data Handling Pipelines
 
 ---
 
